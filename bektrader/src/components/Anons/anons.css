@@ -1,10 +1,15 @@
+.container{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
 h2{
     padding-bottom: 40px;
-    text-align: center;
     font-weight: 600;
     margin-top: 20px;
     font-size: 16px;
-    opacity: 60%;
+    opacity: 50%;
 }
 span{
     color: #3B82F6;
