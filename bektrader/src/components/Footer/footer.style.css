@@ -1,0 +1,14 @@
+.container-footer {
+    padding: 0px 16px;
+    margin: 0px 56px;
+    width: 1336px;
+    margin: auto;
+    display: flex;
+}
+
+.div-router span,
+.div-connect span,
+.div-socialMedia span {
+  font-weight: 800;
+  color: #fff;
+}

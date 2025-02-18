@@ -3,8 +3,12 @@
   font-family: "Montserrat Alternates", serif;
   box-sizing: border-box;
   text-decoration: none;
-  /* color: #ffffff; */
+  color: #ffffff;
   list-style: none;
+  font-size: 16px;
   padding: 0;
   margin: 0;
+}
+body{
+  background-color: #181818;
 }
